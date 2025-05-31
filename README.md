@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a data engineering student, currently in a third year of my course, keen on constant improving and learning new technologies.<br> Currently a Software Engineer Intern at IBM<br>Basen in Krakow, Poland<br>
+I'm a data engineering student, currently in a third year of my course, keen on constant improving and learning new technologies.<br> Currently a Software Engineer Intern at IBM<br>Based in Krakow, Poland<br>
 
 
 ## 🌐 Socials:
