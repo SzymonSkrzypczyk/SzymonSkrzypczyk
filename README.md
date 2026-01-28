@@ -1,19 +1,187 @@
-# 💫 About Me:
-I'm a data engineering student, currently in a fourth year of my course, keen on constant improving and learning new technologies.<br> Currently a Junior Software Engineer at IBM<br>Based in Krakow, Poland<br>
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&duration=3000&pause=1000&color=3B88C3&center=true&vCenter=true&multiline=true&width=800&height=120&lines=Hi+there%2C+I'm+Szymon+Skrzypczyk+%F0%9F%91%8B;Junior+Software+Engineer+%40+IBM)](https://git.io/typing-svg)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Welcome%20to%20my%20Profile!&fontSize=42&fontAlignY=30&animation=twinkling&fontColor=gradient" width="100%"/>
+
+</div>
+
+## 💫 About Me
+
+🎓 **Data Engineering & Analysis Student** (4th year) at AGH University of Science and Technology  
+💼 **Junior Software Engineer** @ IBM, Krakow Lab  
+📍 Based in **Krakow, Poland**  
+🚀 Passionate about constant learning and exploring new technologies  
+🌱 Currently focusing on **distributed computing** and expanding my **DevOps skillset**  
+
+```python
+class SzymonSkrzypczyk:
+    def __init__(self):
+        self.role = "Junior Software Engineer @ IBM"
+        self.location = "Krakow, Poland"
+        self.education = "Data Engineering & Analysis @ AGH"
+        self.interests = ["Distributed Computing", "DevOps", "Mobile Development"]
+        self.hobbies = ["Cycling", "Squash", "Reading"]
+    
+    def say_hi(self):
+        print("Thanks for visiting my profile! Feel free to explore my projects.")
+
+me = SzymonSkrzypczyk()
+me.say_hi()
+```
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/szymon-skrzypczyk-b6a4b31b3/)
+[![Website](https://img.shields.io/badge/Portfolio-%2312100E.svg?style=for-the-badge&logo=google-chrome&logoColor=white)](https://szymon-skrzypczyk.vercel.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SzymonSkrzypczyk)
+
+</div>
+
+---
+
+## 💻 Tech Stack
+
+### 👨‍💻 Programming Languages
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,go,java,php,js,ts,c,bash" />
+  </a>
+</p>
+
+### 🎨 Frameworks & Libraries
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,nextjs,svelte,nodejs,vue,tensorflow" />
+  </a>
+</p>
+
+### ☁️ DevOps & Cloud
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,jenkins,ansible,git,linux,bash" />
+  </a>
+</p>
+
+### 🗄️ Databases
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb,redis" />
+  </a>
+</p>
+
+### 🌍 Foreign Languages
+- 🇵🇱 **Polish** - Native
+- 🇬🇧 **English** - C1
+- 🇩🇪 **German** - C1
+- 🇪🇸 **Spanish** - A1
+- 🇨🇳 **Chinese** - Constantly improving ;)
 
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/szymon-skrzypczyk-b6a4b31b3/) 
-[![Website](https://img.shields.io/badge/Website-%238A2BE2.svg?logo=google-chrome&logoColor=white)](https://szymon-skrzypczyk.vercel.app/)
+---
 
-# 💻 Tech Stack:
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+## 📊 GitHub Statistics
 
-# 📊 GitHub Stats:
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=SzymonSkrzypczyk&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SzymonSkrzypczyk&layout=compact)
+<div align="center">
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SzymonSkrzypczyk&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B88C3&icon_color=3B88C3&text_color=FFFFFF)
 
-# Future plans...
-- Creating a mobile app for my students' organization
-- Developing my skillset around distributed computing
-- Extending Devops skillset
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SzymonSkrzypczyk&theme=tokyonight&hide_border=true&background=0D1117&stroke=3B88C3&ring=3B88C3&fire=FF6B6B&currStreakLabel=3B88C3)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SzymonSkrzypczyk&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B88C3&text_color=FFFFFF)
+
+</div>
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SzymonSkrzypczyk&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=3B88C3&line=3B88C3&point=FFFFFF)](https://github.com/SzymonSkrzypczyk)
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+### 🎉 [Event Website](https://nzd-strona.vercel.app/)
+A modern event page for my students' organization  
+**Tech Stack:** Modern web technologies
+
+---
+
+### 🎓 [University ID Generator](https://github.com/SzymonSkrzypczyk/legitymacja)
+AGH University student ID generator (created for fun purposes 😄)  
+**Tech Stack:** Web development
+
+---
+
+### 🤖 [AI CV Generator](https://github.com/SzymonSkrzypczyk/LLM_cv_maker)
+Intelligent CV generation powered by Large Language Models  
+**Tech Stack:** LLMs, AI/ML
+
+</div>
+
+---
+
+## 💼 Professional Experience
+
+```yaml
+Current:
+  - Role: Junior Software Engineer
+    Company: IBM
+    Location: Krakow, Poland
+    Period: January 2026 - Present
+    
+Previous:
+  - Role: Software Developer Intern
+    Company: IBM
+    Period: January 2025 - December 2025
+    
+  - Role: Intern
+    Company: Hong Kong Polytechnic University
+    Period: July 2025 - August 2025
+    
+  - Role: Support Engineer
+    Company: IBM
+    Period: March 2024 - December 2024
+    
+  - Role: Programming Tutor
+    Company: Giganci Programowania
+    Period: September 2023 - March 2024
+```
+
+---
+
+## 🎯 Current Focus
+
+- 🔭 Creating a **mobile app** for my students' organization
+- 📚 Developing expertise in **distributed computing**
+- 🛠️ Expanding my **DevOps skillset**
+- 🌟 Contributing to **open-source projects**
+
+---
+
+## 🎨 Hobbies & Interests
+
+<div align="center">
+
+🚴 **Cycling** | 🎾 **Squash** | 📚 **Reading**
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
+
+**Thanks for visiting! Let's connect and build something amazing together! 🚀**
+
+<sub>Last updated: 2026</sub>
+
+</div>
