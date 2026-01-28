@@ -46,31 +46,31 @@ me.say_hi()
 
 ## 💻 Tech Stack
 
-### 👨‍💻 Programming Languages
+### 💻 Programming Languages
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,go,java,php,js,ts,c,bash" />
+    <img src="https://skillicons.dev/icons?i=python,go,java,php,js,ts,c,bash&perline=4" />
   </a>
 </p>
 
 ### 🎨 Frameworks & Libraries
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,svelte,nodejs,vue,tensorflow" />
+    <img src="https://skillicons.dev/icons?i=react,nextjs,svelte,nodejs,vue,tensorflow&perline=4" />
   </a>
 </p>
 
 ### ☁️ DevOps & Cloud
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,jenkins,ansible,git,linux,bash" />
+    <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,jenkins,ansible,git,linux,bash&perline=4" />
   </a>
 </p>
 
 ### 🗄️ Databases
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb,redis" />
+    <img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb,redis&perline=4" />
   </a>
 </p>
 
