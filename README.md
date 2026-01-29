@@ -56,14 +56,14 @@ me.say_hi()
 ### 🎨 Frameworks & Libraries
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,svelte,nodejs,vue,tensorflow&perline=4" />
+    <img src="https://skillicons.dev/icons?i=react,nextjs,svelte,nodejs,vue,tensorflow,django,flask&perline=4" />
   </a>
 </p>
 
 ### ☁️ DevOps & Cloud
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,jenkins,ansible,git,linux,bash&perline=4" />
+    <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,jenkins,githubactions,ansible,git,linux,bash&perline=4" /
   </a>
 </p>
 
