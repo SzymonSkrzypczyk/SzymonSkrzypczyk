@@ -176,6 +176,18 @@ Previous:
 
 ---
 
+## ⚡ Vibe Coding Lab
+
+<details>
+<summary>Projects built quickly using AI-assisted development</summary>
+
+- 🚀 [Cosmic companion](https://cosmic-companion-chronicle.vercel.app/) – Website allowing users to stay up to date with rocket launches and current events
+- 🧠 [Expense harmony](https://expense-harmony-eight.vercel.app/) – Expense tracker with depth
+- 📊 [Question hub](https://question-hub-six.vercel.app/) – My space for weird questions I come up with
+- 🎮 [Download data GH](https://github.com/SzymonSkrzypczyk/download-data-gh) – Dekstop app for downloading data from GH without size constraints
+
+</details>
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
