@@ -8,7 +8,7 @@
 
 ## 💫 About Me
 
-🎓 **Data Engineering & Analysis Student** (4th year) at AGH University of Science and Technology  
+🎓 **Space technologies Student** @ AGH University of Science and Technology  
 💼 **Junior Software Engineer** @ IBM, Krakow Lab  
 📍 Based in **Krakow, Poland**  
 🚀 Passionate about constant learning and exploring new technologies  
