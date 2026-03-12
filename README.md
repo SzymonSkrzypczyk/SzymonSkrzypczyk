@@ -181,10 +181,11 @@ Previous:
 <details>
 <summary>Projects built quickly using AI-assisted development</summary>
 
-- 🚀 [Cosmic companion](https://cosmic-companion-chronicle.vercel.app/) – Website allowing users to stay up to date with rocket launches and current events
-- 🧠 [Expense harmony](https://expense-harmony-eight.vercel.app/) – Expense tracker with depth
-- 📊 [Question hub](https://question-hub-six.vercel.app/) – My space for weird questions I come up with
-- 🎮 [Download data GH](https://github.com/SzymonSkrzypczyk/download-data-gh) – Dekstop app for downloading data from GH without size constraints
+- [Cosmic companion](https://cosmic-companion-chronicle.vercel.app/) – Website allowing users to stay up to date with rocket launches and current events
+- [Expense harmony](https://expense-harmony-eight.vercel.app/) – Expense tracker with depth
+- [Question hub](https://question-hub-six.vercel.app/) – My space for weird questions I come up with
+- [Download data GH](https://github.com/SzymonSkrzypczyk/download-data-gh) – Dekstop app for downloading data from GH without size constraints
+- [Yolo annotator](https://github.com/SzymonSkrzypczyk/yolo_annotator) – A tool for annotating images for format compliant with YOLO models
 
 </details>
 
