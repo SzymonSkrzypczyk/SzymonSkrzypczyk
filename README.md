@@ -19,7 +19,7 @@ class SzymonSkrzypczyk:
     def __init__(self):
         self.role = "Junior Software Engineer @ IBM"
         self.location = "Krakow, Poland"
-        self.education = "Data Engineering & Analysis @ AGH"
+        self.education = "Space technologies Student @ AGH"
         self.interests = ["Distributed Computing", "DevOps", "Mobile Development"]
         self.hobbies = ["Cycling", "Squash", "Reading"]
     
